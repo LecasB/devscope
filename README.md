@@ -1,2 +1,2 @@
 # devscope
-All Code
+Aqui é onde publicamos todo o código :)
